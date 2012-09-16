@@ -1,0 +1,1 @@
+gcc backtrack_rows.c -o backtrack_rows
